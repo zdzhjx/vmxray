@@ -1,4 +1,4 @@
-VMxray
+VMxray  可直接查看文件结构? 未测试效果
 ---------
 VMxray looks into VM image of a machine and provides details of installed
 OS and application in it, without running the VM.
